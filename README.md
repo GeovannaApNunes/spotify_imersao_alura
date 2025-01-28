@@ -1,23 +1,5 @@
-# Spotify Clone  
+## Projeto: Recriação da Interface do Spotify
 
-# Dia 1 de 5: Começamdo a dar vida ao Spotify.
+Este projeto está sendo desenvolvido durante uma imersão de 5 dias na Alura, com o objetivo de recriar a interface do Spotify utilizando HTML, CSS e JavaScript.
 
-Projeto criado durante a *Imersão FrontEnd* da Alura. O objetivo é recriar a interface do Spotify com *HTML, *CSS* e *JavaScript*, aplicando conceitos de desenvolvimento web.  
-
-## Funcionalidades  
-
-- Menu lateral com links navegáveis (Início, Buscar e Sua Biblioteca);  
-- Design estilizado utilizando CSS;  
-- Ícones com FontAwesome.  
-
-## Tecnologias Utilizadas  
-
-- *HTML5*  
-- *CSS3*  
-- *JavaScript*  
-
-## Estrutura do Projeto  
-
-1. *Dia 1*: Criação do menu lateral.  
-2. *Próximos dias*: Desenvolvimento das áreas principais e implementação de funcionalidades com JavaScript.  
-
+Ao longo dos dias, estou estruturando a página, aplicando estilizações e adicionando interatividade, sempre focando em boas práticas de desenvolvimento e design responsivo. O projeto ainda está em andamento, mas já representa um ótimo aprendizado na área de FrontEnd.
