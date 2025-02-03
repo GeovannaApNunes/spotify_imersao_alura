@@ -1,5 +1,21 @@
-## Projeto: Recriação da Interface do Spotify
+# Spotify Clone - Imersão Alura
 
-Este projeto está sendo desenvolvido durante uma imersão de 5 dias na Alura, com o objetivo de recriar a interface do Spotify utilizando HTML, CSS e JavaScript.
+Este é um projeto de recriação da interface do Spotify, desenvolvido durante a imersão de Front-End da Alura. O projeto inclui funcionalidades como pesquisa de músicas e saudações dinâmicas com base no horário do dia (Bom dia, Boa tarde, Boa noite).
 
-Ao longo dos dias, estou estruturando a página, aplicando estilizações e adicionando interatividade, sempre focando em boas práticas de desenvolvimento e design responsivo. O projeto ainda está em andamento, mas já representa um ótimo aprendizado na área de FrontEnd.
+## Funcionalidades
+
+- *Interface do Spotify*: Design inspirado na interface do Spotify.
+- *Pesquisa de Músicas*: Permite ao usuário pesquisar por músicas na lista de faixas.
+- *Saudações Dinâmicas*: O site exibe mensagens de "Bom dia", "Boa tarde" ou "Boa noite", dependendo da hora do dia.
+- *API Fake*: Uma API fake foi criada para simular uma base de dados de músicas.
+
+## Tecnologias Utilizadas
+
+- *HTML*: Estruturação da interface.
+- *CSS*: Estilização e layout responsivo.
+- *JavaScript*: Funcionalidades de pesquisa e saudações dinâmicas.
+- *API Fake*: Uma API fictícia local para simular a busca de músicas.
+
+
+<img src="" alt="#" style="width: 300px; height: auto;">
+<img src="" alt="#" style="width: 300px; height: auto;">
