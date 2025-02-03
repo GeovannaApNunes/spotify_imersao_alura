@@ -17,5 +17,5 @@ Este é um projeto de recriação da interface do Spotify, desenvolvido durante 
 - *API Fake*: Uma API fictícia local para simular a busca de músicas.
 
 
-<img src="" alt="#" style="width: 300px; height: auto;">
-<img src="" alt="#" style="width: 300px; height: auto;">
+<img src="./img_spotify/spotify_clone_01" alt="#" style="width: 300px; height: auto;">
+<img src="./img_spotify/spotify_clone_02" alt="#" style="width: 300px; height: auto;">
